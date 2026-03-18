@@ -9,7 +9,7 @@ A pixel-perfect React conversion of the Moderna Minos website homepage.
 - 📱 Mobile-responsive layout
 - ⚡ Built with Vite for fast development
 - 🎭 Smooth animations and transitions
-- 📦 React 18 with TypeScript
+- 📦 React 18 with Javascript
 
 ## Project Structure
 
