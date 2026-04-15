@@ -19,19 +19,16 @@ A React and Vite implementation of the Moderna Minos landing experience, focused
 
 ## Getting Started
 
-`ash
+```bash
 npm install
 npm run dev
-`
+```
 
 ## Available Scripts
 
-- 
-pm run dev starts the development server.
-- 
-pm run build creates the production build.
-- 
-pm run preview serves the production build locally.
+- `npm run dev` starts the development server.
+- `npm run build` creates the production build.
+- `npm run preview` serves the production build locally.
 
 
 ## Notes
